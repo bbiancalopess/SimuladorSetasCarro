@@ -1,6 +1,6 @@
 Projeto desenvolvido no ambiente IAR Embeded Workbench IDE; ver.: 5.60.2 e implementado em um microcontrolador MSP430F1611
 
-O projeto tem o intuito de simular o controle das quatro setas de um veículo. Elas piscaram de acordo com a posição das chaves, representadas aqui pelas combinações dos bits de entrada P1.1 e P1.0.
+O projeto tem o intuito de simular o controle das quatro setas de um veículo. Elas devem piscar de acordo com a posição das chaves, representadas aqui pelas combinações dos bits de entrada P1.1 e P1.0.
 
 As combinações dos bits de entrada e o comportamento das lâmpadas das setas são descritas abaixo.
 
