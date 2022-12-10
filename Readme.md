@@ -6,9 +6,7 @@ As combinações dos bits de entrada e o comportamento das lâmpadas das setas s
 
   Chave de seta   Lâmpadas
 
-  E      D            FE   TE   FD   TD
-
-  P1.1  P1.0          P1.7 P1.6 P1.5 P1.4
+  E (P1.1)      D(P1.0)            FE(P1.7)   TE(P1.6)   FD(P1.5)   TD(P1.4)
 
    0     0            Todas apagadas
 
